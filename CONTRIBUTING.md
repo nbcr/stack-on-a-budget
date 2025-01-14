@@ -39,3 +39,7 @@ Services limited in time or too limited in functionalities shouldn't be listed.
 Some examples:
 - it's ok to list a free tier for an emailing service, even if it offers only 100 emails per month.
 - it is not ok if the service offers an application instance for free only for 12 hours a day, or if there is a mandatory idle time of 6 hours. 
+
+# Review Process
+
+All contributions will be reviewed by the repository owner, `255kb`. They will ensure that the guidelines are followed and that the contribution is suitable for inclusion in the repository. Please be patient as the review process may take some time.
